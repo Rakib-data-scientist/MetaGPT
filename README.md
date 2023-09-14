@@ -1,6 +1,6 @@
 # MetaGPT
 
-Inspired by  : https://arxiv.org/pdf/2308.00352v4.pdf
+
 
 1.
 ![MetaGPT-A-Framework-for-Multi-Agent-Systems_page-0001](https://github.com/Rakib-data-scientist/MetaGPT/assets/137823730/eb0dafe9-42e4-4ad0-867a-9c244fdca46b)
@@ -26,3 +26,6 @@ Inspired by  : https://arxiv.org/pdf/2308.00352v4.pdf
 ![MetaGPT-A-Framework-for-Multi-Agent-Systems_page-0011](https://github.com/Rakib-data-scientist/MetaGPT/assets/137823730/ccc40c01-669b-44a7-aaa3-b348b83c1704)
 12.
 ![MetaGPT-A-Framework-for-Multi-Agent-Systems_page-0012](https://github.com/Rakib-data-scientist/MetaGPT/assets/137823730/3b06655e-008c-4289-adfe-1afa1cf93f76)
+
+
+* Inspired by  : https://arxiv.org/pdf/2308.00352v4.pdf
